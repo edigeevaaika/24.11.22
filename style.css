@@ -3,6 +3,7 @@
 }
 .navbar{
   padding: 15px;
+  box-shadow: 0 0 5px;
 }
 .container {
   max-width: 987px;
@@ -10,7 +11,7 @@
 nav ul {
   list-style-type: none;
   display: flex;
-  justify-content:center;
+  justify-content:space-between;
   padding: 0;
   margin: 0;
 }
